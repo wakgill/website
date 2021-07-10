@@ -56,7 +56,18 @@ Latest updates
 				<div class="page__breadcrumbs" dir="ltr">
 					 
 				</div>
-
+ {% if page.url != '/' %}
+<div class="page__breadcrumbs" dir="ltr">
+					 
+						<span class="page__breadcrumb">
+							<a href="/">
+								Things Of Interest							</a>
+						</span>
+					 
+				</div>
+   
+    {% endif %}
+    
 				<h2 class="page__h2">
 					{%if page.title %}
        {{ page.title }}
