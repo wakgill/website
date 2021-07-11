@@ -13,7 +13,7 @@ title: Things Of Interest
 ### Latest updates
 
 {% for post in site.posts %}
-  * {{ post.date | date: "%Y-%m-%d" }}: [ {{ post.title }} ]({{ post.url }})
+  <li>{{ post.date | date: "%Y-%m-%d" }}: [ {{ post.title }} ]({{ post.url }})</li>
 {% endfor %}
 
 ### External links
