@@ -19,3 +19,8 @@ This is an open offer to give you $10 in your prefered fork of Bitcoin if you st
 I recommened [GitHub](https://pages.github.com/) pages and [Jekyll.](http://joshualande.com/jekyll-github-pages-poole) It's fast and easy to setup, and you will have a site that can never break unlike CMS heavy systems like WordPress.
 
 I will create a running list of everyone who has participated in this so you can follow eachother's work.
+
+### External links
+
+- [The Transformations from Daily Blogging](https://isaacmorehouse.com/2020/01/11/the-transformations-from-daily-blogging/)
+- [It Started with Daily Blogging](https://isaacmorehouse.com/2017/04/04/it-started-with-daily-blogging/)
