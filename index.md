@@ -4,11 +4,10 @@ title: Things Of Interest
 ---
 
 
-					
-		<h3>Categories...</h3>
+<h3>Categories...</h3>
 		<ul>
 			
-					<li>
+<li>
 						<a href="/fiction">Bitcoin</a>
 						
 					</li>
@@ -46,11 +45,6 @@ title: Things Of Interest
 <li><a href="http://www.reddit.com/r/qntm">/r/qntm</a></li>
 </ul>				
 
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
-    {% for yearMonth in postsByYearMonth %}
-    <li class="list-group-item py-1">
-    {% for item in yearMonth.items limit: 1 %}
-      <a href="{{ site.url }}/{{ item.date | date: '%Y/%m' }}">{{ yearMonth.name }}</a>
-    {% endfor %}
-    </li>
+{% for post in site.posts %}
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
