@@ -45,3 +45,12 @@ title: Things Of Interest
 <li>Twitter: <a href="https://twitter.com/qntm">@qntm</a></li>
 <li><a href="http://www.reddit.com/r/qntm">/r/qntm</a></li>
 </ul>				
+
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+    {% for yearMonth in postsByYearMonth %}
+    <li class="list-group-item py-1">
+    {% for item in yearMonth.items limit: 1 %}
+      <a href="{{ site.url }}/{{ item.date | date: '%Y/%m' }}">{{ yearMonth.name }}</a>
+    {% endfor %}
+    </li>
+{% endfor %}
