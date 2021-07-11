@@ -8,14 +8,14 @@ title: Things Of Interest
 		<ul>
 			
 <li>
-						<a href="/fiction">Bitcoin</a>
+<a href="/fiction">Bitcoin</a>
 						
-					</li>
+	</li>
 				
-					<li>
-						<a href="/src">Fiction</a>
+	<li>
+<a href="/src">Fiction</a>
 						
-					</li>
+</li>
 				
 					<li>
 						<a href="/time">Code</a>
