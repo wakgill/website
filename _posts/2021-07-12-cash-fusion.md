@@ -16,12 +16,12 @@ There is *no retroactive privacy* offered by using these tools. You can never de
 
 This means any government auditor who wants to see your financial history just needs to know the original Bitcoin address
 you used before fusing your coins and they can identify how much money you had AND the fact you you attempted to hide your future transaction history because CashFusion transactions are trivially [identifiable](https://stats.devzero.be/#/fusion) on the blockchain. If you had, for example, .1 Bitcoin at the address, it won't matter
-much whether or not they can trace your coins themselves because they know how much you once had and where it was.
+whether or not they can trace your coins themselves because they know how much you once had and where it was.
 
 The auditor can simply issue an order to turn over the records of your transactions after you fused or mixed them that give a full accounting
 up to the .1 Bitcoin that existed at that original address. Just because you obfuscated your
 transactions to make them more difficult for them to trace doesn't get you off the hook
-for providing the records if the auditors or investigators want them.
+for providing the records if the auditors or investigators want them. You have not un-KYCed yourself.
 
 You can refuse, and hope they aren't able to trace your transactions through other means. It's possible the punishment for refusing to comply
 wouldn't be as bad as the punishment for whatever you were trying to hide, but if that's the case, it would
