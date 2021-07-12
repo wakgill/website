@@ -10,6 +10,8 @@ title: Things Of Interest
 - [Fiction](/fiction)
 - [Meta](/meta)
 
+You can also view the full [archive.](/archive)
+
 ### Latest updates
 
 {% for post in site.posts %}
