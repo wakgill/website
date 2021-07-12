@@ -25,7 +25,7 @@ for providing the records if the auditors or investigators want them.
 
 You can refuse, and hope they aren't able to trace your transactions through other means. It's possible the punishment for refusing to comply
 wouldn't be as bad as the punishment for whatever you were trying to hide, but if that's the case, it would
-have been better off to start with clean coins to begin with because mixing and fusion is currently identifiable on the blockchain, because using these tools
+have been better off to start with clean coins to begin with because mixing and fusion is currently identifiable on the blockchain and because using these tools
 with identity-linked coins may invite unwanted scrutiny and alternative surveillance that can do a lot to identify your Bitcoin transaction history without
 ever needing to trace anything on the blockchain itself.
 
