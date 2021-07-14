@@ -11,9 +11,7 @@ records that you owe us anything. Did you say you got a letter in the mail from 
 "I have the letter in front of me now," George said, unable to hide his frustration. "Look,
 you guys have been in pain in my ass for a long time. I've paid you a fortune already in the past ten years,
 and the last thing I want is to get slapped with a bunch of fees because
-*you* weren't able to find the record in the system." <sup><a href="#fn2" id="ref2">\*</a></sup>
-
-<sup id="fn2">*</sup> She was free. [&#x21a9;&#xfe0e;](#ref2)
+*you* weren't able to find the record in the system." 
 
 "I don't know what to tell you Mr. Hanawalt," said the agent. "You don't owe us anything."
 
